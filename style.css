@@ -12,5 +12,14 @@ h1{
 body{
   background-color: rgb(56, 56, 54);
 }
+}
+.jogo{
+  position:center;
+}
+main{
+  position:relative;
+  top: 50px;
+  left: 90px;
+}
 
 

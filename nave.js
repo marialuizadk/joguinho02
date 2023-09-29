@@ -1,7 +1,7 @@
 //variáveis das naves
 
-let xNaves = [600, 600, 600, 600, 600, 600];
-let yNaves = [40, 96, 150, 180, 215, 250];
+let xNaves = [750, 750, 750, 750, 750, 750];
+let yNaves = [170, 196, 150, 180, 90, 79];
 let velocidadeNaves = [2, 2.5, 3.2, 3.8, 4.2, 4.8];
 let comprimentoNave = 50;
 let alturaNave = 40;
